@@ -16,3 +16,6 @@ My name is Aman Nadeem, I'm a Computer Science BSc student at Virtual University
 - 😄 Pronouns: HEHEHE
 - ⚡ Fun fact: To get what you love, you must have to be patient with what you hate.
 
+<a href="https://github.com/Redata/recdata">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Recdata&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aman's GitHub Stats" />
+</a>
