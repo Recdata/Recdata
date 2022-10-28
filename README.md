@@ -13,12 +13,12 @@ My name is Aman Nadeem, I'm a Computer Science BSc student at Virtual University
 ✔️Perform Database Operation usign SQL and explore various database framework including MEDOO and SQLITE.<br>
 ✔️Perform Backend logics at paidlance.com i.e paginations, data handling, users clustering etc.<br>
 <h3>Frontend:</h3><br>
-✔️Re-Design more than 100 pages of PHPTRAVELS official site phptravels.com
-✔️PhpTravels Website Clone: I have designed a phptravels.net clone to practice my frontend skills.
-✔️<a href="https://halalcode.me/starlink-clone/">Starlink Website Clone</a>
-✔️<a href="https://halalcode.me/PhpTravels-website-clone/home-page-clone/index.html">PHPTRAVELS Home Page Clone</a>
-✔️<a href="https://halalcode.me/PhpTravels-website-clone/flights-listing-page-clone/flights.html">PHPTRAVELS Flights Page</a>
-✔️<a href="https://halalcode.me/PhpTravels-website-clone/listing-page-clone/listing.html">PHPTRAVELS Listing Page</a>
+✔️Re-Design more than 100 pages of PHPTRAVELS official site phptravels.com<br>
+✔️PhpTravels Website Clone: I have designed a phptravels.net clone to practice my frontend skills.<br>
+✔️<a href="https://halalcode.me/starlink-clone/">Starlink Website Clone</a><br>
+✔️<a href="https://halalcode.me/PhpTravels-website-clone/home-page-clone/index.html">PHPTRAVELS Home Page Clone</a><br>
+✔️<a href="https://halalcode.me/PhpTravels-website-clone/flights-listing-page-clone/flights.html">PHPTRAVELS Flights Page</a><br>
+✔️<a href="https://halalcode.me/PhpTravels-website-clone/listing-page-clone/listing.html">PHPTRAVELS Listing Page</a><br>
 <table>
 <tr>
 
