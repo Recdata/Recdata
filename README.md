@@ -7,12 +7,12 @@
 
 My name is Aman Nadeem, I'm a Computer Science BSc student at Virtual University. I'm making a great effort to keep this GitHub profile up to date with all my latest assignments and personal projects I'm working on, so you could get a clue for what it's like being a CS student.
 <h1>My Current Portfolio:</h1><br>
-<h3>Backend:</h3>
-✔️ Image Crud App: Here PHP comes, its my second project of performing crud operations with data and images also. It also includes storing and uploading data from the MySQL database.
-✔️ Basic Crud Web App: This is my first project in PHP with MySQL.
-✔️Perform Database Operation usign SQL and explore various database framework including MEDOO and SQLITE.
-✔️Perform Backend logics at paidlance.com i.e paginations, data handling, users clustering etc.
-<h3>Frontend:</h3>
+<h3>Backend:</h3><br>
+✔️ Image Crud App: Here PHP comes, its my second project of performing crud operations with data and images also. It also includes storing and uploading data from the MySQL database.<br>
+✔️ Basic Crud Web App: This is my first project in PHP with MySQL.<br>
+✔️Perform Database Operation usign SQL and explore various database framework including MEDOO and SQLITE.<br>
+✔️Perform Backend logics at paidlance.com i.e paginations, data handling, users clustering etc.<br>
+<h3>Frontend:</h3><br>
 ✔️Re-Design more than 100 pages of PHPTRAVELS official site phptravels.com
 ✔️PhpTravels Website Clone: I have designed a phptravels.net clone to practice my frontend skills.
 ✔️<a href="https://halalcode.me/starlink-clone/">Starlink Website Clone</a>
