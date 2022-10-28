@@ -7,10 +7,12 @@
 
 <table>
 <tr>
-  <td >
-    [![@aman18's Holopin board](https://holopin.me/aman18)](https://holopin.io/@aman18)
+
+[![@aman18's Holopin board](https://holopin.me/aman18)](https://holopin.io/@aman18)
+<!--   <td >
+    
         <img src="https://user-images.githubusercontent.com/88032779/159785491-c01a329b-991d-400f-a79c-69fd4c725ba4.gif" >
-    </td>
+    </td> -->
 <!--   <td >
         <img src="https://github-readme-stats.vercel.app/api?username=Recdata&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" >
     </td> -->
