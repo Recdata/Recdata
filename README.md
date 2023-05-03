@@ -15,10 +15,10 @@ My name is Aman Nadeem, I'm a Computer Science learner. I'm making a great effor
 <h3>Frontend:</h3><br>
 ✔️Re-Design more than 100 pages of PHPTRAVELS official site phptravels.com<br>
 ✔️PhpTravels Website Clone: I have designed a phptravels.net clone to practice my frontend skills.<br>
-✔️<a href="https://halalcode.me/starlink-clone/">Starlink Website Clone</a><br>
-✔️<a href="https://halalcode.me/PhpTravels-website-clone/home-page-clone/index.html">PHPTRAVELS Home Page Clone</a><br>
-✔️<a href="https://halalcode.me/PhpTravels-website-clone/flights-listing-page-clone/flights.html">PHPTRAVELS Flights Page</a><br>
-✔️<a href="https://halalcode.me/PhpTravels-website-clone/listing-page-clone/listing.html">PHPTRAVELS Listing Page</a><br><br><br><br>
+✔️<a href="https://recdata.github.io/starlink-clone/">Starlink Website Clone</a><br>
+✔️<a href="https://recdata.github.io/PhpTravels-website-clone/home-page-clone/index.html">PHPTRAVELS Home Page Clone</a><br>
+✔️<a href="https://recdata.github.io/PhpTravels-website-clone/flights-listing-page-clone/flights.html">PHPTRAVELS Flights Page</a><br>
+✔️<a href="https://recdata.github.io/PhpTravels-website-clone/listing-page-clone/listing.html">PHPTRAVELS Listing Page</a><br><br><br><br>
 <table>
 <tr>
 
