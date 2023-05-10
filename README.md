@@ -7,6 +7,9 @@
 
 My name is Aman Nadeem, I'm a Computer Science learner. I'm making a great effort to keep this GitHub profile up to date with all my latest tasks and personal projects I'm working on, so you could get a clue for what it's like being a CS student.
 <h1>My Current Portfolio:</h1><br>
+✔️<a href="https://pdfhost.io/v/2DsFpD7xg_aman_nadeem_laravel_developer">Here is my current Portfolio</a><br>
+
+<h1>My Previous Portfolio:</h1><br>
 <h3>Backend:</h3><br>
 ✔️ Image Crud App: Here PHP comes, its my second project of performing crud operations with data and images also. It also includes storing and uploading data from the MySQL database.<br>
 ✔️ Basic Crud Web App: This is my first project in PHP with MySQL.<br>
