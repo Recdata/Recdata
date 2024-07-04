@@ -44,7 +44,8 @@ My name is Aman Nadeem, I'm a Computer Science learner. I'm making a great effor
 - 😄 Pronouns: HEHEHE
 - ⚡ Fun fact: To get what you love, you must have to be patient with what you hate.
 
-[![Aman's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Recdata&theme=xcode)](https://github.com/Recdata)
+[![wakatime](https://wakatime.com/badge/user/038a3c4b-2b56-4802-8167-c43a0324a89f.svg)](https://wakatime.com/@038a3c4b-2b56-4802-8167-c43a0324a89f)
+
 <a href="https://github.com/Redata/recdata">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Recdata&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aman's GitHub Stats" />
 </a> -->
