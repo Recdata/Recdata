@@ -1,51 +1,84 @@
-### Hi `<developers/>` Peace there! 👋
+# Hi, I'm Aman Nadeem 👋
 
-<!--
-**Recdata/Recdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Engineer · PHP & Laravel · React & TypeScript · NestJS
 
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a56696b377042747539644e532f67697068792e676966](https://user-images.githubusercontent.com/88032779/159785491-c01a329b-991d-400f-a79c-69fd4c725ba4.gif)<img src="https://user-images.githubusercontent.com/88032779/159785491-c01a329b-991d-400f-a79c-69fd4c725ba4.gif" >-->
+I build web applications that turn complex business workflows into practical, reliable products. My experience spans motor insurance, SaaS commerce, fleet tracking, real-time notifications, and payment integrations.
 
-My name is Aman Nadeem, I'm a Computer Science learner. I'm making a great effort to keep this GitHub profile up to date with all my latest tasks and personal projects I'm working on, so you could get a clue for what it's like being a CS student.
-<h1>My Current Portfolio:</h1><br>
-✔️<a href="https://pdfhost.io/v/tTZa1xIEy_aman_nadeem_senior_laravel_dev">Here is my current Portfolio</a><br>
+Based in **Lahore, Pakistan**, I work across frontend interfaces, backend services, API integrations, and relational databases—with a focus on performance and reducing manual work.
 
-<h1>My Previous Portfolio:</h1><br>
-<h3>Backend:</h3><br>
-✔️ Image Crud App: Here PHP comes, its my second project of performing crud operations with data and images also. It also includes storing and uploading data from the MySQL database.<br>
-✔️ Basic Crud Web App: This is my first project in PHP with MySQL.<br>
-✔️Perform Database Operation usign SQL and explore various database framework including MEDOO and SQLITE.<br>
-✔️Perform Backend logics at paidlance.com i.e paginations, data handling, users clustering etc.<br>
-<h3>Frontend:</h3><br>
-✔️Re-Design more than 100 pages of PHPTRAVELS official site phptravels.com<br>
-✔️PhpTravels Website Clone: I have designed a phptravels.net clone to practice my frontend skills.<br>
-✔️<a href="https://recdata.github.io/starlink-clone/">Starlink Website Clone</a><br>
-✔️<a href="https://recdata.github.io/PhpTravels-website-clone/home-page-clone/index.html">PHPTRAVELS Home Page Clone</a><br>
-✔️<a href="https://recdata.github.io/PhpTravels-website-clone/flights-listing-page-clone/flights.html">PHPTRAVELS Flights Page</a><br>
-✔️<a href="https://recdata.github.io/PhpTravels-website-clone/listing-page-clone/listing.html">PHPTRAVELS Listing Page</a><br><br><br><br>
-<table>
-<tr>
+[LinkedIn](https://www.linkedin.com/in/amannadeem/) · [Email](mailto:amannadeem4148@gmail.com) · [Repositories](https://github.com/recdata?tab=repositories)
 
-[![@aman18's Holopin board](https://holopin.me/aman18)](https://holopin.io/@aman18)
-<!--   <td >
-    
-        <img src="https://user-images.githubusercontent.com/88032779/159785491-c01a329b-991d-400f-a79c-69fd4c725ba4.gif" >
-    </td> <td >
-        <img src="https://github-readme-stats.vercel.app/api?username=Recdata&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" >
-    </td> -->
-  </tr>
-</table>
-<!-- 
-- 🔭 I’m also currently working on C , Python and a pinch of content writing.
-- 🌱 I’m currently learning Data Analysis and Procedural Programming
-- 👯 I’m looking to collaborate on Data Science and Artificial Intelligence:)
-- 🤔 I’m looking for help with C 
-- 💬 Ask me about Artificial Intelligence and Data Analysis
-- 📫 How to reach me: Contact me on Linkdin 
-- 😄 Pronouns: HEHEHE
-- ⚡ Fun fact: To get what you love, you must have to be patient with what you hate.
+---
 
-[![wakatime](https://wakatime.com/badge/user/038a3c4b-2b56-4802-8167-c43a0324a89f.svg)](https://wakatime.com/@038a3c4b-2b56-4802-8167-c43a0324a89f)
+## What I've built
 
-<a href="https://github.com/Redata/recdata">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Recdata&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Aman's GitHub Stats" />
-</a> -->
+- **Motor insurance platform:** Developed a full-stack platform from the ground up using React, TypeScript, NestJS, and PHP. Integrated Saudi HRSD APIs to automate employee insurance tracking for transfers and terminations, and replaced manual compliance paperwork with automated reporting.
+- **SaaS commerce:** Worked on a Laravel, Vue.js, and Statamic product serving **10,000+ sellers** and supporting **50,000+ orders**. Improved page load performance through caching, lazy loading, and asset compression.
+- **Tracking and bidding systems:** Built geofencing and tracking for **1,500+ pieces of equipment** using Laravel, Leaflet.js, and the Traccar API. Developed a bidding platform handling **2,500+ concurrent bids**, spanning both frontend and backend.
+- **Integrations and modernization:** Implemented custom Stripe integrations, real-time notifications with Socket.io, fleet reporting dashboards, and PHPTRAVELS page redesigns and jQuery-to-vanilla-JavaScript migrations.
+
+## Technical toolkit
+
+| Area | Technologies |
+| --- | --- |
+| Languages | PHP, JavaScript, TypeScript, Python, SQL |
+| Backend & CMS | Laravel, NestJS, Core PHP, Statamic |
+| Frontend | React, Next.js, Vue.js, Angular, AngularJS, React Native |
+| Databases | SQL Server, MySQL, SQLite |
+| UI & styling | Tailwind CSS, Vuetify, Bootstrap, jQuery |
+| APIs & real-time | REST API integrations, Socket.io, Stripe, Saudi HRSD APIs, Traccar API |
+| Maps & location | Leaflet.js, Mapbox, geofencing |
+| Tools & servers | Git, Linux, Nginx, Apache |
+
+## Experience
+
+**Full Stack Engineer — Al Etihad Cooperative Insurance Co**  
+*Contracted via DZone Solutions · June 2025–Present*
+
+Building insurance workflows with React/TypeScript, NestJS, PHP, and SQL Server, including HRSD integrations and automated compliance reporting.
+
+**Laravel & Vue.js Developer — Tekvill Solutions**  
+*April 2024–May 2025*
+
+Full-stack SaaS development with Laravel, Vue.js, and Statamic, alongside performance improvements and real-time notifications for Next.js and React Native applications.
+
+**PHP Laravel Developer — TieCodes**  
+*December 2022–March 2024*
+
+Built tracking, geofencing, bidding, and fleet management systems; developed dashboards and reporting features; integrated payment gateways for SaaS products.
+
+**PHP Developer — PHPTRAVELS**  
+*April 2022–December 2022*
+
+Redesigned pages for version 8.1, worked with Core PHP and SQLite/Medoo, and migrated jQuery code to vanilla JavaScript.
+
+## Selected projects
+
+A selection of projects from my professional portfolio:
+
+| Project | Link |
+| --- | --- |
+| Al Etihad Motor Insurance | [Live platform](https://onlinemotor.aletihad.sa/) |
+| Mewschool | [Website](https://mewschool.com/) |
+| Dugnadsiden | [Website](https://dugnadsiden.no/) · [Demo walkthrough](https://www.loom.com/share/f05ef9696860472499fa853c53826e71) |
+| Geoliftec | [Website](https://geoliftec.com/) |
+| Chalo Cars | [Website](https://chalocars.com.pk/) |
+| Zigu Co | [Website](https://zigu.co/) |
+
+## Community & education
+
+- **Computer Science:** B.Sc. studies at Virtual University of Pakistan.
+- **Tech community:** Volunteered and served as a core team member at tech meetups, including Tech Tehwar and Laravel Live Pakistan.
+- **Public speaking & leadership:** Served as President of Say Global Toastmasters Club, June 2025–June 2026.
+
+## Contribution activity · @amanadeem
+
+This profile is **[@recdata](https://github.com/recdata)**. The dynamic graph below shows contribution activity for the separate account **[@amanadeem](https://github.com/amanadeem)** over the last 31 days.
+
+[![GitHub contribution activity for amanadeem over the last 31 days](https://github-readme-activity-graph.vercel.app/graph?username=amanadeem&theme=github-compact&hide_border=true&area=true&custom_title=amanadeem%20Contribution%20Activity)](https://github.com/amanadeem)
+
+<sub>Generated by <a href="https://github.com/ashutosh00710/github-readme-activity-graph">GitHub Readme Activity Graph</a>. Updates depend on the service and GitHub image caching. <a href="https://github.com/amanadeem">View the account directly</a>.</sub>
+
+---
+
+Interested in discussing full-stack development, Laravel, API integrations, or a project? [Get in touch](mailto:amannadeem4148@gmail.com).
